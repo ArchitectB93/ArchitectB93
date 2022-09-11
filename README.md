@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchitectB93
 - 👀 I’m interested in Desktop or Mobile Apps/Blockchain tech. 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript / React / Bootstrap / Python / Back end
 - 💞️ I’m looking to collaborate on various projects, not sure yet. 
 - 📫 How to reach me ...
 
